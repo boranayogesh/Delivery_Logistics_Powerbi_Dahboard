@@ -1,0 +1,185 @@
+#  Delivery & Logistics Performance Analysis Dashboard | Power BI Project
+
+##  Project Overview
+
+This project presents an interactive **Delivery & Logistics Performance Dashboard** built using **Power BI** to analyze shipment operations, delivery efficiency, route performance, and logistics KPIs. The dashboard enables logistics managers and business stakeholders to monitor key performance metrics, identify operational bottlenecks, and improve delivery performance through data-driven decision-making.
+
+---
+
+##  Business Problem
+
+Logistics companies often face challenges in tracking delivery performance across different routes and shipment types. Without a centralized reporting solution, management teams struggle to:
+
+* Monitor on-time delivery performance.
+* Identify delayed shipments and bottlenecks.
+* Track distance coverage and route efficiency.
+* Analyze cutoff compliance across days and time slots.
+* Compare planned route metrics with actual delivery outcomes.
+
+This dashboard provides a single source of truth for monitoring logistics operations and improving service efficiency.
+
+---
+
+##  Dashboard KPIs
+
+| KPI                    | Description                               |
+| ---------------------- | ----------------------------------------- |
+| Total Shipments        | Total number of shipments processed       |
+| Average Delivery Time  | Average delivery duration in minutes      |
+| Total Distance Covered | Total distance traveled by shipments      |
+| On-Time Delivery %     | Percentage of shipments delivered on time |
+| Delayed Shipment %     | Percentage of delayed deliveries          |
+
+---
+
+##  Dashboard Features
+
+### Executive Summary
+
+* Total Shipment Tracking
+* Average Delivery Time Analysis
+* Distance Coverage Monitoring
+* On-Time Delivery Performance
+* Delayed Shipment Tracking
+
+### Operational Analytics
+
+* Cutoff Compliance Analysis
+* Route Type Performance (Carting & FTL)
+* Day-wise Delivery Trends
+* Shipment Distribution Analysis
+
+### Delivery Performance Analysis
+
+* OSRM vs Actual Delivery Time Comparison
+* OSRM vs Actual Distance Comparison
+* Scan-to-Delivery Duration Analysis
+* Delay Distribution Monitoring
+
+### Interactive Capabilities
+
+* Route Type Filtering
+* Dynamic KPI Updates
+* Cross-Filtering Between Visuals
+* Drill-Down Analysis
+
+---
+
+##  Tools & Technologies
+
+* Power BI Desktop
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Microsoft Excel
+* Logistics Dataset
+
+---
+
+##  Dashboard Screenshots
+
+### Overall Logistics Performance Dashboard
+
+![Dashboard Overview](Screenshots/Dashboard_Overview.png)
+
+### Route Type Analysis
+
+![Route Analysis](Screenshots/Route_Analysis.png)
+
+### Delivery Performance Insights
+
+![Performance Insights](Screenshots/Performance_Insights.png)
+
+---
+
+## 🔍 Key Insights
+
+### On-Time Delivery Analysis
+
+* Monitored delivery success rate across shipment types.
+* Identified trends impacting service-level agreements (SLAs).
+
+### Route Performance
+
+* Compared Carting and FTL route efficiency.
+* Evaluated shipment volume distribution by route type.
+
+### Delivery Accuracy
+
+* Compared OSRM estimated time and distance with actual values.
+* Identified route deviations and delivery inefficiencies.
+
+### Operational Bottlenecks
+
+* Analyzed delayed shipments and cutoff compliance.
+* Identified opportunities for process optimization.
+
+---
+
+##  Business Impact
+
+* Improved visibility into logistics operations.
+* Faster identification of delayed shipments.
+* Enhanced route optimization opportunities.
+* Better decision-making through KPI-driven insights.
+* Increased focus on improving on-time delivery rates.
+
+---
+
+##  Repository Structure
+
+```text
+Delivery-Logistics-Dashboard/
+│
+├── Dataset/
+│   └── logistics_data.csv
+│
+├── PowerBI_File/
+│   └── Delivery_Logistics_Dashboard.pbix
+│
+├── Screenshots/
+│   ├── Dashboard_Overview.png
+│   ├── Route_Analysis.png
+│   └── Performance_Insights.png
+│
+└── README.md
+```
+
+---
+
+##  Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Calculations
+* KPI Development
+* Logistics Analytics
+* Data Visualization
+* Business Intelligence Reporting
+* Performance Monitoring
+
+---
+
+##  Author
+
+**Yogesh Borana**
+Data Analyst | Power BI Developer
+
+ Pune, Maharashtra, India
+
+ [yogeshborana1996a@gmail.com](mailto:yogeshborana1996a@gmail.com)
+
+### Core Skills
+
+* Power BI
+* SQL (MySQL)
+* Python
+* Advanced Excel
+* Tableau
+* Data Analysis
+* Data Visualization
+* Business Intelligence
+
+---
+
+ If you found this project helpful, please consider giving it a star!
